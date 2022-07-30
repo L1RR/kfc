@@ -1,0 +1,282 @@
+.header{
+    width:100%;
+    height:110px;
+    background-color: white;
+}
+body{
+    margin:0px;
+}
+.leftsection{
+    width:50%;
+    float:left;
+}
+.flex{
+    float:left;
+    padding-left: 130px;
+    padding-top: 50px;
+}
+.flex1{
+    float:left;
+    padding-left:40px;
+    padding-top:30px;
+}
+.flex2{
+    float:left;
+    padding-left: 40px;
+    padding-top:30px;
+}
+.rightsection{
+    width:50%;
+    float:left; 
+}
+.flexx{
+    float:left;
+    padding-top:50px;
+    padding-left:325px;
+}
+.flex3{
+    float:left;
+    padding-top:30px;
+    padding-left:17px;
+
+}
+.flex4{
+    float:left;
+    padding-top:30px;
+    padding-left:25px;
+}
+.headercart{
+    float:left;
+    width:60px;
+    height:60px;
+    padding-top:28px;
+    padding-left:17px;
+}
+.lets{
+    width:100%;
+    height:60px;
+    background-color: #202124;
+    color:white;
+    font-weight: bold;
+}
+.letscontent{
+    float:left;
+    font-size:large;
+    padding-left:300px;
+}
+.submit-btn{
+    width:120px;
+    height:40px;
+    background-color: #e4002b;
+    float:left;
+    margin-left: 20px;
+    color: white;
+    margin-top:10px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+.welcome{
+    width:84%;
+    height:130px;
+    background-color: #f8f7f5;
+    padding-left:175px;
+}
+.welcomeImage{
+    padding-left:0px;
+}
+.browse{
+    width:100%;
+    height:680px;
+    background-color: white;
+    /* position:absolute; */
+   
+}
+.browseContent{
+    font-weight: bold;
+    margin-left:170px;
+    margin-top:80px;
+}
+.browse1{
+    width:91%;
+    height:250px;
+    background-color: white;
+    padding-top:20px;
+    padding-left:90px;
+}
+.browse1image1{
+    width:225px;
+    height:220px;
+    padding-left:30px;
+    cursor: pointer;
+}
+.browse2{
+    width:92%;
+    height:250px;
+    background-color:whitesmoke;
+    
+    padding-left:90px;
+
+}
+.offer1{
+    width:100%;
+    height:600px;
+    background-color: #202124;
+}
+.lines{
+    margin-left:140px;
+
+}
+.offerh1{
+    color:whitesmoke;
+    font-size: xx-large;
+    margin-left: 130px;
+}
+.offerh5{
+    color:whitesmoke;
+    margin-left: 1000px;
+   
+
+}
+.offerimage1{
+    width:25%;
+    height:390px;
+    background-color: beige;
+    float:left;
+    margin-left:100px;
+    position:relative;
+   
+}
+.offerimage2{
+    width:25%;
+    height:390px;
+    background-color:green;
+    float:left;
+    margin-left:50px;
+    position:relative;
+   
+}
+.offerimage3{
+    width:25%;
+    height:395px;
+    background-color: beige;
+    float:left;
+    margin-left:50px;
+    position:relative;
+}
+.redeem-btn{
+    width:140px;
+    height:45px;
+    background-color: white;
+    color:black;
+    font-weight: bolder;
+    
+
+    position: absolute;
+    left:142px;
+    top:328px;
+    border-radius: 20px;
+}
+.redeem-btn:hover{
+    background-color:black;
+    color:white;
+}
+.redeem-btn1{
+    width:140px;
+    height:45px;
+    background-color: white;
+    color:blue;
+    
+
+    position: absolute;
+    left:142px;
+    top:330px;
+    border-radius: 20px;
+}
+.footer{
+    width:100%;
+    height:420px;   
+    background-color: #202124;
+}
+.list1{
+    float:left;
+    width:9%;
+    height:180px;
+    background-color: #202124;
+    margin-left:20px;
+    color:white;
+    margin-top:150px;
+}
+.list2{
+    float:left;
+    width:9%;
+    height:180px;
+    background-color: #202124;
+    margin-left:20px;
+    color:white;
+    margin-top:150px;
+}
+.list3{
+    float:left;
+    width:9%;
+    height:180px;
+    background-color: #202124;
+    margin-left:20px;
+    color:white;
+    margin-top:150px;
+}
+.list4{
+    float:left;
+    width:10%;
+    height:180px;
+    background-color: #202124;
+    margin-left:20px;
+    color:white;
+    margin-top:150px;
+}
+.footerImage{
+    float:left;
+    margin-top:150px;
+    margin-left:60px;
+
+}
+.svg{
+    background-color:#202124;
+    margin-top:149px;
+    margin-left:160px;
+}
+.svg1{
+    background-color: #202124;
+    margin-top:149px;
+    margin-left:25x;
+}
+.finalfooter{
+    width:100%;
+    height:60px;
+    background-color: #202124;
+    position:absolute;
+}
+.footercontent{
+    color:grey;
+    margin-top: 25px;
+    float:left;
+    margin-left:316px;
+}
+.twitter{
+    margin-left:420px;
+    float:left;
+    margin-top: 15px;
+    
+    
+    
+}
+.facebook{
+    float:left;
+    margin-left:15px;
+    margin-top: 15px;
+}
+.insta{
+    float:left;
+    margin-left:15px;
+    margin-top: 15px;
+}
